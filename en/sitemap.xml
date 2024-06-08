@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://aaacat6.github.io/about/</loc>
     <lastmod>2024-06-08T13:45:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://aaacat6.github.io/</loc>
     <lastmod>2024-06-08T13:45:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://aaacat6.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://aaacat6.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://aaacat6.github.io/posts/</loc>
     <lastmod>2024-06-08T13:43:48+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://aaacat6.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://aaacat6.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://aaacat6.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://aaacat6.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://aaacat6.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://aaacat6.github.io/series/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://aaacat6.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://aaacat6.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://aaacat6.github.io/tags/"
                 />
   </url>
 </urlset>
