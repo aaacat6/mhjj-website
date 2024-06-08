@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "I:/code/02_web2/mhjj-website/mhjj-website_wip",
+	"sourceRoot": "I:/code/02_web2/mhjj-website",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
