@@ -9,22 +9,5 @@
         <lastBuildDate>Sat, 08 Jun 2024 13:43:48 +0800</lastBuildDate>
         <atom:link href="https://mhjj.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
         
-        <item>
-            <title>Test</title>
-            <link>https://mhjj.xyz/posts/2024/06/test/</link>
-            <pubDate>Sat, 08 Jun 2024 13:43:48 +0800</pubDate>
-            
-            <guid>https://mhjj.xyz/posts/2024/06/test/</guid>
-            <description>test test111
-1 2 </description>
-            <content type="html"><![CDATA[<h3 id="test">test</h3>
-<p><strong>test111</strong></p>
-<ul>
-<li>1</li>
-<li>2</li>
-</ul>
-]]></content>
-        </item>
-        
     </channel>
 </rss>

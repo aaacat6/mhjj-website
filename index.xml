@@ -10,18 +10,11 @@
     <lastBuildDate>Sat, 08 Jun 2024 13:45:15 +0800</lastBuildDate>
     <atom:link href="https://mhjj.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mhjj</title>
+      <title>About us</title>
       <link>https://mhjj.xyz/about/</link>
       <pubDate>Sat, 08 Jun 2024 13:45:15 +0800</pubDate>
       <guid>https://mhjj.xyz/about/</guid>
-      <description>hello web3!</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://mhjj.xyz/posts/2024/06/test/</link>
-      <pubDate>Sat, 08 Jun 2024 13:43:48 +0800</pubDate>
-      <guid>https://mhjj.xyz/posts/2024/06/test/</guid>
-      <description>test test111&#xA;1 2 </description>
+      <description>We mainly provide blockchain node services.&#xA;Servers are located in Europe and Japan.</description>
     </item>
   </channel>
 </rss>
